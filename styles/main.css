@@ -2,3 +2,9 @@ body {
   background-color: #c0ecf7;
   text-align: center;
 }
+
+.button1 {
+  width: 70vw;
+  background-color: #b9e68e;
+  color: black;
+}
