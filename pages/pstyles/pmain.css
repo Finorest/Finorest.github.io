@@ -1,0 +1,35 @@
+body {
+  background-color: #c0ecf7;
+  text-align: center;
+  font-family: 'Montserrat', Helvetica, Arial;
+}
+
+h2 {
+  font-size: 2.5vh;
+}
+
+#tophr {
+  width: 90vw;
+  height: 5px;
+  color: #3a3a3a;
+  background-color: #3a3a3a;
+  border-radius: 20vw;
+}
+
+.bnew {
+  width: 70vw;
+  background-color: #d35f5f;
+  text-decoration: underline;
+  color: black;
+  border-radius: 30vw 10vw;
+  margin: 1vh;
+}
+
+.bn {
+  width: 70vw;
+  background-color: #b9e68e;
+  color: black;
+  border-radius: 30vw 10vw;
+  margin: 1vh;
+}
+
